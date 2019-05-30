@@ -1,6 +1,6 @@
 # A tour of awesome features of spaCy
 
-This repo contains complementary jupyter notebooks for [part 1](sdf) and [part 2]() of a tour through features of spaCy, versatile and fast natural language processing library for python.  
+This repo contains complementary jupyter notebooks for [part 1](https://medium.com/eliiza-ai/a-tour-of-awesome-features-of-spacy-part-1-2-58b32425954f) and [part 2](https://medium.com/eliiza-ai/a-tour-of-awesome-features-of-spacy-part-2-2-d7bd628a81ce) of a tour through features of spaCy, versatile and fast natural language processing library for python.  
 
 In the first part we go through 
 * preprocessing tasks: tokenisation, sentence segmentation, lemmatisation, stopwords, 
